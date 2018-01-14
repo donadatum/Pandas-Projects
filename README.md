@@ -1,2 +1,2 @@
 # Pandas-Projects 
-The Jupyter Notebook file Egress Test gives and example of using pandas for threat detection. 
+The Jupyter Notebook file Egress Test gives an example of using pandas for threat detection. 
